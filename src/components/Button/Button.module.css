@@ -1,0 +1,16 @@
+.btn {
+  padding: 2vmin 4vmin;
+  font-weight: 600;
+  border-radius: 0.2rem;
+  color: #fff;
+  cursor: pointer;
+}
+.inc {
+  background: dodgerblue;
+}
+.reset {
+  background: crimson;
+}
+.dec {
+  background: purple;
+}
